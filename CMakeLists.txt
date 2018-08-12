@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
-project(Arman_Dumb)
+project(Arman)
 set(CMAKE_CXX_STANDARD 14)
 set(CMAKE_CXX_FLAGS_DEBUG "-fsanitize=leak -g -O0 -Wall")
 set(CMAKE_CXX_FLAGS_RELEASE "-O3")
